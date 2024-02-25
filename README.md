@@ -49,5 +49,4 @@ This project is a clone of the official website of Chelsea Football Club. It aim
 **Contribution**
 Contributions are welcome! If you have ideas for improvements, additional features, or if you find any issues, feel free to open an issue or submit a pull request.
 
-**License**
-This project is licensed under the MIT License.
+
